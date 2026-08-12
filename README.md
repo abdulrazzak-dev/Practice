@@ -1,4 +1,4 @@
-# # Java Programming and Spring Boot - Practical Tasks
+# # Java Programming, Spring Boot and React  - Practical Tasks
 
 This repository contains my solutions for the Java practical task modules assigned by MARS TECH. Every program is written in Java, utilizes the `Scanner` class for dynamic user input, and follows proper coding and documentation standards.
 
